@@ -16,8 +16,10 @@ public class WebConfiguration {
     public ActorSearchService actorSearchService(ActorRepository actorRepository){
         return new ActorSearchServiceImpl(actorRepository);
     }
+
     @Bean
     public ISCOSearchService iscoSearchService(ISCORepository iscoRepository){
         return  new ISCOSearchServiceImpl(iscoRepository);
     }
+
 }

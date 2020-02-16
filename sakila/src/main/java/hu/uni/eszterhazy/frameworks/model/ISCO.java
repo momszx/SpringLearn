@@ -1,5 +1,9 @@
 package hu.uni.eszterhazy.frameworks.model;
 
+import javax.persistence.Entity;
+import java.sql.Timestamp;
+
+@Entity
 public class ISCO {
 
     public ISCO(long order,int level,int code,long parent,String codeOc ,String parentOc){

@@ -1,0 +1,11 @@
+/home/momsz/Asztal/Git/SpringLearn/sakila/src/main/java/hu/uni/eszterhazy/frameworks/dao/ISCORepository.java
+/home/momsz/Asztal/Git/SpringLearn/sakila/src/main/java/hu/uni/eszterhazy/frameworks/service/ISCOSearchServiceImpl.java
+/home/momsz/Asztal/Git/SpringLearn/sakila/src/main/java/hu/uni/eszterhazy/frameworks/ActorsController.java
+/home/momsz/Asztal/Git/SpringLearn/sakila/src/main/java/hu/uni/eszterhazy/frameworks/dao/ActorRepository.java
+/home/momsz/Asztal/Git/SpringLearn/sakila/src/main/java/hu/uni/eszterhazy/frameworks/WebConfiguration.java
+/home/momsz/Asztal/Git/SpringLearn/sakila/src/main/java/hu/uni/eszterhazy/frameworks/service/ActorSearchService.java
+/home/momsz/Asztal/Git/SpringLearn/sakila/src/main/java/hu/uni/eszterhazy/frameworks/model/Actor.java
+/home/momsz/Asztal/Git/SpringLearn/sakila/src/main/java/hu/uni/eszterhazy/frameworks/model/ISCO.java
+/home/momsz/Asztal/Git/SpringLearn/sakila/src/main/java/hu/uni/eszterhazy/frameworks/service/ISCOSearchService.java
+/home/momsz/Asztal/Git/SpringLearn/sakila/src/main/java/hu/uni/eszterhazy/frameworks/App.java
+/home/momsz/Asztal/Git/SpringLearn/sakila/src/main/java/hu/uni/eszterhazy/frameworks/service/ActorSearchServiceImpl.java
