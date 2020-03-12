@@ -29,11 +29,13 @@ public class ActorsController {
 
 
     //eddig
-
+/*
     @RequestMapping("/hello")
     public String sayHello(@RequestParam(value = "name") String name){
         return String.format("Hello %s", name);
     }
+    */
+
     @RequestMapping(value = "/hello/{name}")
     public String sayHellofor(@PathVariable("name") String name){
             return String.format("Hy %s",name);
